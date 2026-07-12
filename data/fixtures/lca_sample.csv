@@ -1,0 +1,62 @@
+CASE_NUMBER,JOB_TITLE,SOC_CODE,EMPLOYER_NAME,WORKSITE_CITY,WORKSITE_STATE,WAGE_RATE_OF_PAY_FROM,WAGE_UNIT_OF_PAY,CASE_STATUS,FISCAL_YEAR
+I-2024-100000,Software Developer,15-1252,Employer 0,Seattle,WA,110000,Year,Certified,2024
+I-2024-100001,Software Developer,15-1252,Employer 1,Seattle,WA,112500,Year,Certified,2024
+I-2024-100002,Software Developer,15-1252,Employer 2,Seattle,WA,115000,Year,Certified,2024
+I-2024-100003,Software Developer,15-1252,Employer 3,Seattle,WA,117500,Year,Certified,2024
+I-2024-100004,Software Developer,15-1252,Employer 4,Seattle,WA,120000,Year,Certified,2024
+I-2024-100005,Software Developer,15-1252,Employer 5,Seattle,WA,122500,Year,Certified,2024
+I-2024-100006,Software Developer,15-1252,Employer 6,Seattle,WA,125000,Year,Certified,2024
+I-2024-100007,Software Developer,15-1252,Employer 7,Seattle,WA,127500,Year,Certified,2024
+I-2024-100008,Software Developer,15-1252,Employer 8,Seattle,WA,130000,Year,Certified,2024
+I-2024-100009,Software Developer,15-1252,Employer 9,Seattle,WA,132500,Year,Certified,2024
+I-2024-100010,Software Developer,15-1252,Employer 10,Seattle,WA,135000,Year,Certified,2024
+I-2024-100011,Software Developer,15-1252,Employer 11,Seattle,WA,137500,Year,Certified,2024
+I-2024-100012,Software Developer,15-1252,Employer 12,Seattle,WA,140000,Year,Certified,2024
+I-2024-100013,Software Developer,15-1252,Employer 13,Seattle,WA,142500,Year,Certified,2024
+I-2024-100014,Software Developer,15-1252,Employer 14,Seattle,WA,145000,Year,Certified,2024
+I-2024-100015,Software Developer,15-1252,Employer 15,Seattle,WA,147500,Year,Certified,2024
+I-2024-100016,Software Developer,15-1252,Employer 16,Seattle,WA,150000,Year,Certified,2024
+I-2024-100017,Software Developer,15-1252,Employer 17,Seattle,WA,152500,Year,Certified,2024
+I-2024-100018,Software Developer,15-1252,Employer 18,Seattle,WA,155000,Year,Certified,2024
+I-2024-100019,Software Developer,15-1252,Employer 19,Seattle,WA,157500,Year,Certified,2024
+I-2024-100020,Software Developer,15-1252,Employer 20,Seattle,WA,160000,Year,Certified,2024
+I-2024-100021,Software Developer,15-1252,Employer 21,Seattle,WA,162500,Year,Certified,2024
+I-2024-100022,Software Developer,15-1252,Employer 22,Seattle,WA,165000,Year,Certified,2024
+I-2024-100023,Software Developer,15-1252,Employer 23,Seattle,WA,167500,Year,Certified,2024
+I-2024-100024,Software Developer,15-1252,Employer 24,Seattle,WA,170000,Year,Certified,2024
+I-2024-100025,Software Developer,15-1252,Employer 25,Seattle,WA,172500,Year,Certified,2024
+I-2024-100026,Software Developer,15-1252,Employer 26,Seattle,WA,175000,Year,Certified,2024
+I-2024-100027,Software Developer,15-1252,Employer 27,Seattle,WA,177500,Year,Certified,2024
+I-2024-100028,Software Developer,15-1252,Employer 28,Seattle,WA,180000,Year,Certified,2024
+I-2024-100029,Software Developer,15-1252,Employer 29,Seattle,WA,182500,Year,Certified,2024
+I-2024-100030,Software Developer,15-1252,Employer 30,Seattle,WA,185000,Year,Certified,2024
+I-2024-100031,Software Developer,15-1252,Employer 31,Seattle,WA,187500,Year,Certified,2024
+I-2024-100032,Software Developer,15-1252,Employer 32,Seattle,WA,190000,Year,Certified,2024
+I-2024-100033,Software Developer,15-1252,Employer 33,Seattle,WA,192500,Year,Certified,2024
+I-2024-100034,Software Developer,15-1252,Employer 34,Seattle,WA,195000,Year,Certified,2024
+I-2024-100035,Software Developer,15-1252,Employer 35,Seattle,WA,197500,Year,Certified,2024
+I-2024-100036,Software Developer,15-1252,Employer 36,Seattle,WA,200000,Year,Certified,2024
+I-2024-100037,Software Developer,15-1252,Employer 37,Seattle,WA,202500,Year,Certified,2024
+I-2024-100038,Software Developer,15-1252,Employer 38,Seattle,WA,205000,Year,Certified,2024
+I-2024-100039,Software Developer,15-1252,Employer 39,Seattle,WA,207500,Year,Certified,2024
+I-2024-200000,Software Developer,15-1252,Hourly Co 0,Bellevue,WA,70,Hour,Certified,2024
+I-2024-200001,Software Developer,15-1252,Hourly Co 1,Bellevue,WA,71,Hour,Certified,2024
+I-2024-200002,Software Developer,15-1252,Hourly Co 2,Bellevue,WA,72,Hour,Certified,2024
+I-2024-200003,Software Developer,15-1252,Hourly Co 3,Bellevue,WA,73,Hour,Certified,2024
+I-2024-200004,Software Developer,15-1252,Hourly Co 4,Bellevue,WA,74,Hour,Certified,2024
+I-2024-300000,Data Scientist,15-2051,Data Co 0,Redmond,WA,120000,Year,Certified,2024
+I-2024-300001,Data Scientist,15-2051,Data Co 1,Redmond,WA,123000,Year,Certified,2024
+I-2024-300002,Data Scientist,15-2051,Data Co 2,Redmond,WA,126000,Year,Certified,2024
+I-2024-300003,Data Scientist,15-2051,Data Co 3,Redmond,WA,129000,Year,Certified,2024
+I-2024-300004,Data Scientist,15-2051,Data Co 4,Redmond,WA,132000,Year,Certified,2024
+I-2024-300005,Data Scientist,15-2051,Data Co 5,Redmond,WA,135000,Year,Certified,2024
+I-2024-300006,Data Scientist,15-2051,Data Co 6,Redmond,WA,138000,Year,Certified,2024
+I-2024-300007,Data Scientist,15-2051,Data Co 7,Redmond,WA,141000,Year,Certified,2024
+I-2024-300008,Data Scientist,15-2051,Data Co 8,Redmond,WA,144000,Year,Certified,2024
+I-2024-300009,Data Scientist,15-2051,Data Co 9,Redmond,WA,147000,Year,Certified,2024
+I-2024-400000,Software Developer,15-1252,CA Co 0,San Jose,CA,160000,Year,Certified,2024
+I-2024-400001,Software Developer,15-1252,CA Co 1,San Jose,CA,165000,Year,Certified,2024
+I-2024-400002,Software Developer,15-1252,CA Co 2,San Jose,CA,170000,Year,Certified,2024
+I-2024-400003,Software Developer,15-1252,CA Co 3,San Jose,CA,175000,Year,Certified,2024
+I-2024-400004,Software Developer,15-1252,CA Co 4,San Jose,CA,180000,Year,Certified,2024
+I-2024-999999,Software Developer,15-1252,Denied Co,Seattle,WA,50000,Year,Denied,2024

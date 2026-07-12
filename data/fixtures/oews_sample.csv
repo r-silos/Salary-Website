@@ -1,0 +1,30 @@
+soc_code,occupation_title,area_code,area_name,area_type,year,mean_wage,pct10,pct25,pct50,pct75,pct90,employment
+15-1252,Software Developers,42660,"Seattle-Tacoma-Bellevue, WA",metro,2024,145000,95000,120000,140000,170000,210000,80000
+15-1252,Software Developers,ST-WA,Washington,state,2024,135000,90000,110000,130000,160000,195000,120000
+15-1252,Software Developers,99,United States,national,2024,130000,85000,105000,127000,155000,190000,1600000
+15-2051,Data Scientists,42660,"Seattle-Tacoma-Bellevue, WA",metro,2024,140000,90000,115000,135000,165000,200000,12000
+15-2051,Data Scientists,ST-WA,Washington,state,2024,132000,88000,108000,128000,158000,190000,18000
+15-2051,Data Scientists,99,United States,national,2024,125000,80000,100000,120000,150000,185000,200000
+29-1141,Registered Nurses,42660,"Seattle-Tacoma-Bellevue, WA",metro,2024,98000,75000,85000,95000,110000,130000,45000
+29-1141,Registered Nurses,ST-WA,Washington,state,2024,95000,72000,82000,92000,105000,125000,70000
+29-1141,Registered Nurses,99,United States,national,2024,90000,65000,75000,86000,100000,120000,3000000
+13-2011,Accountants and Auditors,42660,"Seattle-Tacoma-Bellevue, WA",metro,2024,85000,55000,65000,80000,100000,125000,25000
+13-2011,Accountants and Auditors,ST-CA,California,state,2024,88000,56000,68000,82000,105000,130000,150000
+13-2011,Accountants and Auditors,99,United States,national,2024,80000,50000,60000,75000,95000,120000,1400000
+11-1021,General and Operations Managers,99,United States,national,2024,70000,42000.0,56000.0,70000,84000.0,105000.0,10000
+15-1211,Computer Systems Analysts,99,United States,national,2024,72500,43500.0,58000.0,72500,87000.0,108750.0,10100
+15-1221,Computer and Information Research Scientists,99,United States,national,2024,75000,45000.0,60000.0,75000,90000.0,112500.0,10200
+15-1232,Computer User Support Specialists,99,United States,national,2024,77500,46500.0,62000.0,77500,93000.0,116250.0,10300
+15-1244,Network and Computer Systems Administrators,99,United States,national,2024,80000,48000.0,64000.0,80000,96000.0,120000.0,10400
+17-2141,Mechanical Engineers,99,United States,national,2024,82500,49500.0,66000.0,82500,99000.0,123750.0,10500
+17-2071,Electrical Engineers,99,United States,national,2024,85000,51000.0,68000.0,85000,102000.0,127500.0,10600
+19-1042,"Medical Scientists, Except Epidemiologists",99,United States,national,2024,87500,52500.0,70000.0,87500,105000.0,131250.0,10700
+23-1011,Lawyers,99,United States,national,2024,90000,54000.0,72000.0,90000,108000.0,135000.0,10800
+25-2021,"Elementary School Teachers, Except Special Education",99,United States,national,2024,92500,55500.0,74000.0,92500,111000.0,138750.0,10900
+27-1024,Graphic Designers,99,United States,national,2024,95000,57000.0,76000.0,95000,114000.0,142500.0,11000
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",99,United States,national,2024,97500,58500.0,78000.0,97500,117000.0,146250.0,11100
+43-6011,Executive Secretaries and Executive Administrative Assistants,99,United States,national,2024,100000,60000.0,80000.0,100000,120000.0,150000.0,11200
+47-2031,Carpenters,99,United States,national,2024,102500,61500.0,82000.0,102500,123000.0,153750.0,11300
+49-3023,Automotive Service Technicians and Mechanics,99,United States,national,2024,105000,63000.0,84000.0,105000,126000.0,157500.0,11400
+51-4041,Machinists,99,United States,national,2024,107500,64500.0,86000.0,107500,129000.0,161250.0,11500
+53-3032,Heavy and Tractor-Trailer Truck Drivers,99,United States,national,2024,110000,66000.0,88000.0,110000,132000.0,165000.0,11600
